@@ -1,0 +1,17 @@
+div {
+    background-color: aliceblue;
+    opacity: 0.95;
+    background-image: url("../images/ttco-tux.png");
+    background-repeat: repeat-x; /* 设置背景水平重复 no-repeat 只显示一次*/
+    background-position: top; /* 设置图像位置 */
+    background-attachment: fixed; /* 是否滚动 fixed 固定，scroll 滚动 */
+
+}
+/* 简写 顺序：color image repeat attachment position*/
+h1 {
+    background: #ffffff url("/images/Snipaste_2022-12-29_09-45-45.png") no-repeat right top;
+}
+/* 可以为特定元素设置背景 */
+p {
+    background-image: url("../images/tux-2520x1680-eae4d1.png");
+}

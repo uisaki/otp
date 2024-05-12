@@ -1,0 +1,12 @@
+h1 {
+    background-color: dodgerblue;
+}
+
+p {
+    background-color: brown;
+    color:bisque;
+}
+
+span {
+    border: 2px solid tomato;
+}
